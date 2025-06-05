@@ -10,5 +10,4 @@ class Solution:
                     if len(a)!=0:
                         a.pop()
             return a
-
         return check(s)==check(t)
