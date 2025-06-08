@@ -13,6 +13,3 @@ class Solution:
             else:
                 pathlen[depth+1]=pathlen[depth]+1+len(path)
         return maxlen
-
-
-        
